@@ -9,6 +9,8 @@ Get it from [Google play store](https://play.google.com/store/apps/details?id=ho
 
 [HomePage](https://cadenzayu.github.io/rocket_launch).
 
+[Privacy Policy](./rocket_launch_privacy_policy.html)
+
 
 ## TetrisBox
 
@@ -32,3 +34,5 @@ Now, it's too old to work anymore. I have tried many tetris-like APPs on the mar
 In this way, I can use my mobile to  revisit my good memories.
 
 This APP was  developed for myself, and for real tetris fans also.
+
+[Privacy Policy](./tetrisbox_privacy_policy.html).
