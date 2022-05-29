@@ -1,7 +1,7 @@
 # Games made by Cadenza Yu
 
 ## Rocket Launch
-![](./RocketLaunch.png)
+![](./2.gif)
 
 Rocket Launch is an one-touch casual game.
 
