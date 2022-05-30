@@ -18,10 +18,12 @@ Get it from [Google play store](https://play.google.com/store/apps/details?id=ho
 
 TetrisBox is a Classic tetis game for real fans
 
+Get it from [Google play store](https://play.google.com/store/apps/details?id=home.cadenzayu.tetrisbox).
+
 ### Key Features:
 
 - 120Hz refresh rate, smooth move
-- Sensitive control, with almost the best control experience in the market
+- Sensitive control, with almost the best control experience in the store
 - Allows button hold, thumb friendly
 - Sliding on the ground, ghost block, classic aftertaste
 
