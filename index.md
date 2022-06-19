@@ -45,5 +45,7 @@ Harvester is a Free and Open-Source top-down space mining game made with the God
 
 But beware, as you are not alone out here. Pirate miners are out there and want to monopolize the business.
 ![](./harvester4.png)
+
 [HomePage](https://cadenzayu.github.io/Harvester).
+
 [Privacy Policy](https://cadenzayu.github.io/Harvester/privacy.html).
