@@ -49,4 +49,6 @@ But beware, as you are not alone out here. Pirate miners are out there and want 
 
 [HomePage](https://cadenzayu.github.io/Harvester).
 
+Get it from [Google play store](https://play.google.com/store/apps/details?id=home.cadenzayu.harvester).
+
 [Privacy Policy](https://cadenzayu.github.io/Harvester/privacy.html).
